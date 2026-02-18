@@ -33,6 +33,6 @@ The architecture uses:
 [AWS Secure Authorization & Application Security via SNS (Docs) (4).pdf](https://github.com/user-attachments/files/25380650/AWS.Secure.Authorization.Application.Security.via.SNS.Docs.4.pdf)
 
 ## Demo:
-[Watch demo video](https://1drv.ms/v/c/fa5b135c3c39db1c/IQAmszW1cT6FSpWHLojh4bAHAQhbcC7pkhoLsQLGNLX2GXQ?e=1N6FdW)
+[Watch demo video](https://1drv.ms/v/c/fa5b135c3c39db1c/IQAmszW1cT6FSpWHLojh4bAHAf0zpWnaTYgSFxwJsqfjTqg?e=cvWAoX)
 
 
